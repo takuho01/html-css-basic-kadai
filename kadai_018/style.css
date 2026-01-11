@@ -1,0 +1,21 @@
+
+
+#top {
+    width: 800px;
+    background: #dcc9f4;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#top .top-child {
+    width: 20%;
+    background: #ffd9df;
+    display: inline-block;
+}
+
+
+
+
+
