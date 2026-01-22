@@ -55,11 +55,11 @@ h2::before {
     color: rgb(239, 111, 139);;
 }
 
-.contents p:nth-child(2)::first-letter  {
-    font-style: bold;
+.contents p:nth-of-type(2)::first-letter  {
+    font-weight: bold;
     color: rgb(97, 206, 249);
 }
-
+    
 .contents img {
     margin-top: 10px;
     margin-bottom: 10px;
